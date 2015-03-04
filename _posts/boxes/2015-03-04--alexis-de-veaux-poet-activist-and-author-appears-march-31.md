@@ -7,4 +7,3 @@ imageUrl: "http://www.fredonia.edu/news/Portals/17/2015%20Spring/Alexis-D-photo-
 link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5246/Herstory_Month_hosted_by_Womens_Student_Union.aspx"
 ---
 
-
