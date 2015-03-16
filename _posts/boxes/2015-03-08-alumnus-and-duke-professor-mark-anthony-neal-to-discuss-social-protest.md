@@ -2,8 +2,8 @@
 categories: box
 layout: post
 published: true
-title: Alumnus and Duke Professor Neal to discuss social protest March 10
-imageUrl: "http://www.fredonia.edu/news/Portals/17/2015%20Spring/Mark-Anthony-Neal-for-web.jpg"
-link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5219/Alumnus_Mark_Anthony_Neal_to_discuss_social_protest.aspx"
+title: "Civil War sesquicentennial observed with several events including Reed Library exhibit "
+imageUrl: "http://www.fredonia.edu/news/Portals/17/2015%20Spring/NCC_intro_copyright-2009-Alusiv,-Inc-for-web.jpg"
+link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5269/Civil_War_sesquicentennial_observed_with_several_events_including_Reed_Library_exhibit.aspx"
 ---
 
