@@ -2,10 +2,9 @@
 categories: slide
 layout: post
 published: true
-title: "COMMIT TO FREDONIA!"
+title: "Enroll Today!"
 caption: true
 imageUrl: "https://dl.dropboxusercontent.com/u/64133716/Homepage/Slides/transform_1500.jpg"
 link: "http://www.fredonia.edu/admin/studentaccounts/payments.asp"
 ---
 
-Pay your deposit before May 1.
