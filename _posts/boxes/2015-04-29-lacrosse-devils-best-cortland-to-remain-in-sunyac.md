@@ -2,8 +2,8 @@
 categories: box
 layout: post
 published: true
-title: "Women's Lacrosse Devils hit 14-win mark on senior day"
-link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5391/Devils_hit_14-win_mark_on_senior_day.aspx"
-imageUrl: "http://www.fredonia.edu/news/Portals/17/2015%20Spring/rp_primary_WLAXseniors_936940.JPG"
+title: "Women's Lacrosse Devils make NCAA Tourney, chosen as host site"
+link: "http://www.fredoniabluedevils.com/news/2015/5/3/WLAX_0503151706.aspx"
+imageUrl: "http://www.fredoniabluedevils.com/images/2015/4/3/rp_primary_wlax_2015Team.jpg"
 ---
 
