@@ -11,3 +11,11 @@ margin-top:80px;
 .micro-classifications .img-circle {
   padding: 12%;
 }
+
+.micro-classifications h3 {
+  text-align: center;
+}
+
+.micro-classifications a {
+  text-align: center;
+}
