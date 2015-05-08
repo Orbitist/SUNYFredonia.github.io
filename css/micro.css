@@ -2,7 +2,7 @@
 margin-top:80px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .micro-topbuffer {
    margin-top:50px;
 }
