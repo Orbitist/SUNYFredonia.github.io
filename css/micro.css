@@ -12,6 +12,6 @@ margin-top:80px;
   padding: 12%;
 }
 
-.micro-classifications h4 {
+.micro-classifications h4, .micro-classifications h1, .micro-classifications p {
   text-align: center;
 }
