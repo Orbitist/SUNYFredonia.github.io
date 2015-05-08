@@ -25,6 +25,9 @@
 /* Utility classes */
 @import url("utilities.css");
 
+/* Microsite classes */
+@import url("micro.css");
+
 
 
 /* Special CSS for SUNY Fredonia's Home page */
