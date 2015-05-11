@@ -28,6 +28,12 @@ font-size: 80px;
 z-index: 2;
 }
 
+@media (max-width: 800px) {
+.top-video-play {
+margin-top: -25px;
+}
+}
+
 .top-video-caption {
 position: absolute;
 top: 75%;
