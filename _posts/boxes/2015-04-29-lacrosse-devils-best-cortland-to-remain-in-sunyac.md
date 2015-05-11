@@ -2,8 +2,8 @@
 categories: box
 layout: post
 published: true
-title: "Women's Lacrosse hosts NCAA Tourney game Sunday at 11 a.m."
-link: "http://www.fredoniabluedevils.com/news/2015/5/8/WLAX_0508151728.aspx"
-imageUrl: "http://www.fredoniabluedevils.com/images/2015/4/3/rp_primary_wlax_2015Team.jpg"
+title: "Women's Lacrosse downs Denison, advances in NCAA Tourney"
+link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5420/Devils_advance_to_Round_3.aspx"
+imageUrl: "http://www.fredonia.edu/news/Portals/17/2015%20Spring/rp_primary_lax_DSC_0425.jpg"
 ---
 
