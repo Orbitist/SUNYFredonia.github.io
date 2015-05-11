@@ -28,6 +28,15 @@ font-size: 80px;
 z-index: 2;
 }
 
+.top-video-caption {
+position: absolute;
+top: 75%;
+left: 50%;
+margin-left: -120px;
+font-size: 20px;
+z-index: 2;
+}
+
 
 .modal-video {
 width: 100%;
