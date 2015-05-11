@@ -23,14 +23,14 @@ position: absolute;
 top: 50%;
 left: 50%;
 margin-left: -33px;
-margin-top: -25px;
+margin-top: -15px;
 font-size: 80px;
 z-index: 2;
 }
 
 @media (max-width: 800px) {
 .top-video-play {
-margin-top: -25px;
+margin-top: -35px;
 }
 }
 
