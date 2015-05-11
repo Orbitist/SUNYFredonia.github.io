@@ -1,0 +1,64 @@
+.top-video {
+max-height: 700px;
+overflow-y: hidden;
+position:relative;
+}
+
+.top-video img{
+z-index: 0;
+width: 100%;
+}
+
+.top-video-overlay {
+position: absolute;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
+background-color: rgba(255,255,255,0.5);
+}
+
+.top-video-play {
+position: absolute;
+top: 50%;
+left: 50%;
+margin-left: -33px;
+margin-top: -15px;
+font-size: 80px;
+z-index: 2;
+}
+
+
+.modal-video {
+width: 100%;
+height: 500px;
+}
+
+.alert {
+z-index: -1;
+}
+
+.alert-info {
+background-color: rgba(0,56,168,0.9);
+border-color: rgba(0,56,168,0.8);
+}
+
+.alert-info p {
+color: white;
+}
+
+.alert-info button.close {
+color: white;
+}
+
+.btn-info {
+color: #fff;
+background-color: #827566;
+border-color: #74685b;
+}
+
+.btn-info:hover {
+color: #fff;
+background-color: #827566;
+border-color: #74685b;
+}
