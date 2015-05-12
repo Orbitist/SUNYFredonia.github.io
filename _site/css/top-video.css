@@ -21,7 +21,7 @@ background-color: rgba(255,255,255,0.5);
 .top-video-play {
 position: absolute;
 width: 100%;
-top: 50%;
+top: 45%;
 /* 
 left: 50%;
 margin-left: -33px;
@@ -29,7 +29,7 @@ margin-top: -15px;
  */
 
 text-align: center;
-font-size: 80px;
+font-size: 120px;
 z-index: 2;
 }
 
@@ -37,6 +37,16 @@ z-index: 2;
 .top-video-play {
 margin-top: -45px;
 }
+
+.top-video-play {
+position: absolute;
+width: 100%;
+top: 50%;
+text-align: center;
+font-size: 45px;
+z-index: 2;
+}
+
 }
 
 .top-video-caption {
