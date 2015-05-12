@@ -27,16 +27,13 @@ left: 50%;
 margin-left: -33px;
 margin-top: -15px;
  */
-
+text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
 text-align: center;
 font-size: 150px;
 z-index: 2;
 }
 
 @media (max-width: 800px) {
-.top-video-play {
-margin-top: -45px;
-}
 
 .top-video-play {
 position: absolute;
