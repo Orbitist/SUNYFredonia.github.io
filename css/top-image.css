@@ -46,8 +46,10 @@ opacity: 0.9;
 
 @media (max-width: 800px) {
 	.top-image-caption  p.lead {
-	top: 70%;
 	font-size: 20px;
 	padding: 10px;
+	}
+	.top-image-caption {
+	top: 70%;
 	}
 }
