@@ -12,11 +12,13 @@ margin-top:80px;
 min-width: 100%;
 }
 
+/* 
 @media (max-width: 990px) {
 .micro-classifications .col-md-4 {
 margin: 0 20% 0 20%;
 }
 }
+ */
 
 .micro-classifications h4, .micro-classifications h3, .micro-classifications h1, .micro-classifications p {
   text-align: center;
