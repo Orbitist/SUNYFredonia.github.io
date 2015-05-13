@@ -8,11 +8,14 @@ margin-top:80px;
 }
 }
 
-.micro-classifications .img-circle {
-  padding-top: 5%;
-  padding-right: 12%;
-  padding-bottom: 5%;
-  padding-left: 12%;
+.micro-classifications .img-responsive {
+min-width: 100%;
+}
+
+@media (max-width: 990px) {
+.micro-classifications .col-md-4 {
+margin: 0 20% 0 20%;
+}
 }
 
 .micro-classifications h4, .micro-classifications h3, .micro-classifications h1, .micro-classifications p {
