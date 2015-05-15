@@ -1,0 +1,13 @@
+.notice-bar {
+width: 100%;
+background-color: #c67f07;
+text-align: center;
+}
+
+.notice-bar a {
+color:white;
+}
+
+.notice-bar p {
+color: #eee;
+}
