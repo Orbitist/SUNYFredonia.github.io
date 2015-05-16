@@ -2,8 +2,8 @@
 categories: box
 layout: post
 published: true
-title: " Lacrosse continues NCAA Tourney run with Sweet 16 match-up Saturday"
-link: "http://fredoniabluedevils.com/news/2015/5/11/WLAX_0511153240.aspx"
-imageUrl: "https://dl.dropboxusercontent.com/u/64133716/Homepage/Boxes/rp_primary_lax_DSC_0425.jpg"
+title: Devils advance to NCAA quarterfinals
+link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5429/Devils_advance_to_NCAA_quarterfinals.aspx"
+imageUrl: "http://www.fredonia.edu/news/Portals/17/2015%20Spring/Lacrosse%20beats%20Wash&Lee.JPG"
 ---
 
