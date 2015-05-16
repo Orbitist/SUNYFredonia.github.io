@@ -2,8 +2,8 @@
 categories: box
 layout: post
 published: true
-title: Distinguished alumnus named as Commencement keynote speaker
-link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5264/Distinguished_alumnus_named_as_Commencement_keynote_speaker.aspx"
+title: "Fredonia celebrates nearly 1,400 among its Class of 2015"
+link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mid/1878/articleId/5428/Fredonia_celebrates_nearly_1400_among_its_Class_of_2015.aspx"
+imageUrl: "http://www.fredonia.edu/news/Portals/17/2015%20Spring/Fredonia_Grad%20Student%20Hooding_2015.jpg"
 ---
 
-Distinguished alumnus, James D. Douglas, named as Commencement keynote speaker
