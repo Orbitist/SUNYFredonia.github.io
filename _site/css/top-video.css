@@ -34,6 +34,14 @@ z-index: 0;
 opacity: 0.9;
 }
 
+.top-video-play a{
+color: rgba(255, 255, 255, 0.8);
+}
+
+.top-video-play a:hover{
+color: rgba(255, 255, 255, 0.9);
+}
+
 @media (max-width: 800px) {
 
 .top-video-play {
