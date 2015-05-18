@@ -125,7 +125,7 @@ padding-right: 0px;
 /* Fast facts small screens */
 @media (max-width: 800px) {
 .fast-fact-icon {
-font-size: 25px;
+font-size: 60px;
 }
 
 .fast-facts .col-md-2 {
