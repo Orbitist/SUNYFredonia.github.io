@@ -259,6 +259,24 @@ Fredonia, NY 14063<br>
 });
 	</script>
 	
+	<!-- Smoothscroll for admissions page -->
+	<script>
+	$(function() {
+  $('a[href=#getstarted]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+	</script>
+	
 	<!-- Sets slide interval -->
 <script>
     $('.carousel').carousel({
