@@ -2,6 +2,10 @@
 margin-top: 22px;
 }
 
+.navbar {
+border: 0px;
+}
+
 /** Large **/
 @media (min-width: 800px) {
 
@@ -89,4 +93,18 @@ padding-right:3px;
 .navbar-fred-omni {
 background-color: #444444;
 margin-bottom: 0px;
+}
+
+
+/** Navbar Bottom **/
+@media (min-width: 800px) {
+nav.navbar.navbar-default.navbar-fixed-bottom {
+height: 50px;
+}
+}
+
+.navbar-toggle-center {
+width: 100%;
+margin-right: 0px;
+border: 0;
 }
