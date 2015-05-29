@@ -2,6 +2,7 @@
 margin-top:80px;
 }
 
+/** CLASSIFICATIONS **/
 .micro-classifications {
 color: white;
 background-image: url('https://dl.dropboxusercontent.com/u/64133716/Homepage/top-images/trees.jpg');
@@ -17,8 +18,41 @@ background-image: url('https://dl.dropboxusercontent.com/u/64133716/Homepage/top
 }
 }
 
-.micro-classifications .img-responsive {
-min-width: 100%;
+.micro-heading h1, .micro-heading p {
+color: white;
+text-align: center;
+text-shadow: 1px 1px 4px rgba(0,0,0,0.9);
+}
+
+.micro-classifications .thumbnail {
+height: 300px;
+background-color: #eee;
+}
+
+.micro-classifications-image {
+max-height: 150px;
+overflow: hidden;
+margin-top: 30px;
+}
+
+.micro-classifications-image img {
+width: 100%;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.micro-classifications h4, .micro-classifications h3 {
+  text-align: center;
+  color: #666;
+}
+
+.micro-classifications h3 a:hover {
+text-decoration: none !important;
+}
+
+.micro-classifications .thumbnail:hover {
+height: 300px;
+background-color: white;
 }
 
 /* 
@@ -29,10 +63,7 @@ margin: 0 20% 0 20%;
 }
  */
 
-.micro-classifications h4, .micro-classifications h3, .micro-classifications h1, .micro-classifications p {
-  text-align: center;
-}
-
+/* 
 .overnail {
 position: absolute;
 margin-top: -60px;
@@ -93,6 +124,7 @@ opacity: 0.9;
 margin-top: 0;
 margin-bottom: 0;
 }
+ */
 
 /***** FAST FACTS *****/
 .fast-facts {
