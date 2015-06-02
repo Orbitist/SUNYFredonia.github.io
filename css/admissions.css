@@ -183,3 +183,32 @@ font-size: 12px;
 }
 
 }
+
+
+/** MODALS **/
+.chapter-header {
+text-align: center;
+}
+
+.chapters h1{
+font-family: cursive;
+}
+
+.chapters p.lead {
+font-size: 32px;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+font-weight: 300;
+}
+
+.chapters p {
+font-size: 24px;
+}
+
+.chapters li {
+font-size: 18px;
+padding-left: 22px;
+}
+
+.chapters a {
+
+}

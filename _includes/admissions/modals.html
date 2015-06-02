@@ -1,13 +1,15 @@
 <!-- FRESHMAN -->
 <div class="modal fade" id="freshmanModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
-    <div class="modal-content">
+    <div class="modal-content mission">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Freshman</h4>
+        <h1 class="modal-title chapter-header" id="myModalLabel">Getting into your first-year</h1>
       </div>
       <div class="modal-body">
+      	<div class="chapters">
         {% include admissions/content/freshman.html %}
+        </div><!-- chapters -->
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
