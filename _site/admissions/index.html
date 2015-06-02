@@ -271,9 +271,9 @@
         	<div class="micro-classifications-image">
         		<img src="http://www.fredonia.edu/admissions/images/landing/freshman.jpg" />
         	</div><!-- micro-classifications-image -->
-		<a href="#" data-toggle="modal" data-target="#freshmanModal">
+		<a href="#" data-toggle="modal" data-target="#transferModal">
 			<div class="overnail">
-				<h3>First-year <small><span class="fa fa-external-link"></span></small></h3>
+				<h3>Transfer <small><span class="fa fa-external-link"></span></small></h3>
 			</div><!-- overnail -->
 		</a>
         </div>
@@ -325,15 +325,23 @@
 	<div class="col-md-6">
 		<h3>You have to experience this place</h3>
 		<hr>
-		<li><p class="lead">500+ opportunities to visit this summer!</p></li>
-		<li><p class="lead">Another readon.</p></li>
-		<li><p class="lead">And more!</p></li>
+		<p class="lead">There are <b>100+</b> opportunities to visit this summer. Enjoy a 90 minute walking tour of our beautiful campus and an information session with an admissions counselor.</p>
+		<li><p class="lead"><b><i>First-year students,</i></b> take a look at our <a href=https://fredonia.askadmissions.net/portal/ei/search" class-"btn btn-diffult">calendar</a> to schedule your visit.</p></li>
+		<li><p class="lead"><b><i>Transfer students,</i></b> give us a call at 800-252-1212 or email admissions@fredonia.edu so we can personally schedule your visit with a transfer counselor.</p></li>
+	<p></a><h3>Open House Events</a>
+	<p><h3></a>Group Visits and Tours</a></a>
+	<p><h3>Saturday Visits</h3></a></a>
+	
 	</div><!-- col-md-6 -->
+	
+
 	<div class="col-md-6">
 		<!-- MAP -->
 <iframe width="100%" height="500px" src="http://app.orbitist.com/embed/88" frameborder="0" scrolling="no" allowfullscreen></iframe>
 	</div><!-- col-md-6 -->
 </div><!-- container -->
+
+<iframe width="100%" height="600px" src="http://app.orbitist.com/nearest/445" frameborder="0" allowfullscreen></iframe>
 
 <nav class="navbar navbar-default navbar-fixed-bottom">
   <div class="container">
@@ -346,10 +354,24 @@
 	</div><!-- navbar-header -->
   	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-bottom-admissions">
 		<div class="center-block">
-      			<a href="/pages/students.html" class="btn btn-default btn-success navbar-btn"><i class="fa fa-binoculars"></i> Visit</a>
-      			<a href="/pages/faculty_staff.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-hand-o-up"></i> Apply</a>
-      			<a href="/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-graduation-cap"></i> Academics</a>
-      			<a href="/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-usd"></i> Cost & Aid</a>
+			<!-- Split button -->
+			<div class="btn-group dropup">
+			  <a class="btn btn-default btn-success navbar-btn" href="#" data-toggle="modal" data-target="#visitModal"><i class="fa fa-binoculars"></i> Visit</a>
+			  <button type="button" class="btn btn-default btn-success navbar-btn dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+				<span class="caret"></span>
+				<span class="sr-only">Toggle Dropdown</span>
+			  </button>
+			  <ul class="dropdown-menu" role="menu">
+				<li><a href="#" data-toggle="modal" data-target="#openHousesModal">Open Houses</a></li>
+				<li><a href="#" data-toggle="modal" data-target="#groupVisitsModal">Group Visits and Tours</a></li>
+				<li><a href="#" data-toggle="modal" data-target="#saturdayVisitsModal">Saturday Visits</a></li>
+				<li class="divider"></li>
+				<li><a href="#" data-toggle="modal" data-target="#visitModal">General Visit Info</a></li>
+			  </ul>
+			</div>
+			<a href="/pages/faculty_staff.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-hand-o-up"></i> Apply</a>
+			<a href="/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-graduation-cap"></i> Academics</a>
+			<a href="/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-usd"></i> Cost & Aid</a>
 		</div>
 
     	</div><!-- collapse navbar-collapse -->
@@ -365,11 +387,25 @@
         <h4 class="modal-title" id="myModalLabel">Freshman</h4>
       </div>
       <div class="modal-body">
-        <h1>Hello world</h1>
+        <h1>Attending college for the first time?</h1>
 
-<p>This is a paragraph</p>
+<p>How to apply</p>
+<li>Complete Application (SUNY Application OR the Common Application)</li>
+<li>Personal Essay (SUNY Application Part II)</li>
+<li>Official High School Transcripts</li>
+<li>SAT and/or ACT scores (from the Testing Center or High School)
+- CEEB Code and SAT Code: 2539 
+- ACT Code: 2934 </li>
+<li>At least (1) Letter of Recommendation</li>
 
-<p>And this is another one.</p>
+
+<p>TRACK YOUR APPLICATION</p>
+
+<p>2015 Incoming Class Profile</p>
+
+<p>Scholarships</p>
+<li>Requirements</li>
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -377,10 +413,6 @@
     </div>
   </div>
 </div>
-
-
-
-
 
 <!-- TRANSFER -->
 <div class="modal fade" id="transferModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -388,10 +420,15 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Freshman</h4>
+        <h4 class="modal-title" id="myModalLabel">Transfer</h4>
       </div>
       <div class="modal-body">
-        Put content here!
+        <h2>hello world</h2>
+
+<p>Are you are transfer?</p>
+<img src="https://dl.dropboxusercontent.com/u/64133716/Homepage/Big%20Boxes/2015-05-07_Regional-Impact-chart-summary.jpg" class="img-responsive" />
+
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -399,6 +436,112 @@
     </div>
   </div>
 </div>
+
+<!-- VISIT -->
+<div class="modal fade" id="visitModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Transfer</h4>
+      </div>
+      <div class="modal-body">
+        <h2>hello world</h2>
+
+<p>Are you are transfer?</p>
+<img src="https://dl.dropboxusercontent.com/u/64133716/Homepage/Big%20Boxes/2015-05-07_Regional-Impact-chart-summary.jpg" class="img-responsive" />
+
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- OPEN HOUSES -->
+<div class="modal fade" id="openHousesModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Transfer</h4>
+      </div>
+      <div class="modal-body">
+        <h1>Attending college for the first time?</h1>
+
+<p>How to apply</p>
+<li>Complete Application (SUNY Application OR the Common Application)</li>
+<li>Personal Essay (SUNY Application Part II)</li>
+<li>Official High School Transcripts</li>
+<li>SAT and/or ACT scores (from the Testing Center or High School)
+- CEEB Code and SAT Code: 2539 
+- ACT Code: 2934 </li>
+<li>At least (1) Letter of Recommendation</li>
+
+
+<p>TRACK YOUR APPLICATION</p>
+
+<p>2015 Incoming Class Profile</p>
+
+<p>Scholarships</p>
+<li>Requirements</li>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- GROUP VISITS AND TOURS -->
+<div class="modal fade" id="groupVisitsModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Transfer</h4>
+      </div>
+      <div class="modal-body">
+        <h2>hello world</h2>
+
+<p>Are you are transfer?</p>
+<img src="https://dl.dropboxusercontent.com/u/64133716/Homepage/Big%20Boxes/2015-05-07_Regional-Impact-chart-summary.jpg" class="img-responsive" />
+
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SATURDAT VISITS -->
+<div class="modal fade" id="saturdayVisitsModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Transfer</h4>
+      </div>
+      <div class="modal-body">
+        <h2>hello world</h2>
+
+<p>Are you are transfer?</p>
+<img src="https://dl.dropboxusercontent.com/u/64133716/Homepage/Big%20Boxes/2015-05-07_Regional-Impact-chart-summary.jpg" class="img-responsive" />
+
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!-- Search -->
 <a name="searchbox" id="searchboxa"></a>

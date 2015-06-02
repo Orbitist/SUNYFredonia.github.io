@@ -9,10 +9,24 @@
 	</div><!-- navbar-header -->
   	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-bottom-admissions">
 		<div class="center-block">
-      			<a href="{{ site.baseurl }}/pages/students.html" class="btn btn-default btn-success navbar-btn"><i class="fa fa-binoculars"></i> Visit</a>
-      			<a href="{{ site.baseurl }}/pages/faculty_staff.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-hand-o-up"></i> Apply</a>
-      			<a href="{{ site.baseurl }}/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-graduation-cap"></i> Academics</a>
-      			<a href="{{ site.baseurl }}/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-usd"></i> Cost & Aid</a>
+			<!-- Split button -->
+			<div class="btn-group dropup">
+			  <a class="btn btn-default btn-success navbar-btn" href="#" data-toggle="modal" data-target="#visitModal"><i class="fa fa-binoculars"></i> Visit</a>
+			  <button type="button" class="btn btn-default btn-success navbar-btn dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+				<span class="caret"></span>
+				<span class="sr-only">Toggle Dropdown</span>
+			  </button>
+			  <ul class="dropdown-menu" role="menu">
+				<li><a href="#" data-toggle="modal" data-target="#openHousesModal">Open Houses</a></li>
+				<li><a href="#" data-toggle="modal" data-target="#groupVisitsModal">Group Visits and Tours</a></li>
+				<li><a href="#" data-toggle="modal" data-target="#saturdayVisitsModal">Saturday Visits</a></li>
+				<li class="divider"></li>
+				<li><a href="#" data-toggle="modal" data-target="#visitModal">General Visit Info</a></li>
+			  </ul>
+			</div>
+			<a href="{{ site.baseurl }}/pages/faculty_staff.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-hand-o-up"></i> Apply</a>
+			<a href="{{ site.baseurl }}/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-graduation-cap"></i> Academics</a>
+			<a href="{{ site.baseurl }}/pages/students.html" class="btn btn-default navbar-btn btn-success"><i class="fa fa-usd"></i> Cost & Aid</a>
 		</div>
 
     	</div><!-- collapse navbar-collapse -->
