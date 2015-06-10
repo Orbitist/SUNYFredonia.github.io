@@ -8,7 +8,7 @@
       </div>
       <div class="modal-body">
       	<div class="chapters">
-        {% include admissions/content/freshman.html %}
+        {% include admissions/content/first-year.html %}
         </div><!-- chapters -->
       </div>
       <div class="modal-footer">
@@ -21,13 +21,15 @@
 <!-- TRANSFER -->
 <div class="modal fade" id="transferModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
-    <div class="modal-content">
+    <div class="modal-content mission">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Transfer</h4>
+        <h1 class="modal-title chapter-header" id="myModalLabel">Transfer to Fredonia</h1>
       </div>
       <div class="modal-body">
-        {% include admissions/content/transfers.html %}
+      	<div class="chapters">
+        {% include admissions/content/transfer.html %}
+        </div><!-- chapters -->
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -35,6 +37,87 @@
     </div>
   </div>
 </div>
+
+<!-- GRADUATE -->
+<div class="modal fade" id="graduateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content mission">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h1 class="modal-title chapter-header" id="myModalLabel">Get an advanced degree</h1>
+      </div>
+      <div class="modal-body">
+      	<div class="chapters">
+        {% include admissions/content/graduate.html %}
+        </div><!-- chapters -->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- INTERNATIONAL -->
+<div class="modal fade" id="internationalModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content mission">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h1 class="modal-title chapter-header" id="myModalLabel">Learn in the U.S.</h1>
+      </div>
+      <div class="modal-body">
+      	<div class="chapters">
+        {% include admissions/content/international.html %}
+        </div><!-- chapters -->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- LIFELONG LEARNING -->
+<div class="modal fade" id="lifelongLearningModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content mission">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h1 class="modal-title chapter-header" id="myModalLabel">Never stop learning</h1>
+      </div>
+      <div class="modal-body">
+      	<div class="chapters">
+        {% include admissions/content/lifelong-learning.html %}
+        </div><!-- chapters -->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- READMISSION -->
+<div class="modal fade" id="readmissionModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content mission">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h1 class="modal-title chapter-header" id="myModalLabel">Finish your degree</h1>
+      </div>
+      <div class="modal-body">
+      	<div class="chapters">
+        {% include admissions/content/readmission.html %}
+        </div><!-- chapters -->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!-- VISIT -->
 <div class="modal fade" id="visitModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

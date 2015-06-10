@@ -212,3 +212,10 @@ padding-left: 22px;
 .chapters a {
 
 }
+
+a#visit {
+display: block; 
+position: relative; 
+top: -80px; 
+visibility: hidden;
+}
