@@ -1,6 +1,6 @@
 .giving-form {
 width: 100%;
-background: url(https://dl.dropboxusercontent.com/u/64133716/Homepage/top-images/hooding_1.jpg) no-repeat center center; 
+background: url(https://dl.dropboxusercontent.com/u/64133716/Homepage/top-images/yes.jpg) no-repeat center center; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -14,5 +14,6 @@ background-color: rgba(255, 255, 255, 0.8);
 }
 
 .formstack {
-margin-top: 80px;
+margin-top: 100px;
+margin-bottom: 50px;
 }
