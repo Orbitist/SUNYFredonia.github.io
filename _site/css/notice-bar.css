@@ -2,6 +2,8 @@
 width: 100%;
 background-color: #c67f07;
 text-align: center;
+padding: 8px 0 2px 0;
+margin-bottom: 15px;
 }
 
 .notice-bar a {
