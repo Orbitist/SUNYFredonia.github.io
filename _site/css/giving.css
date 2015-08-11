@@ -1,6 +1,33 @@
-.giving-form {
+.home {
 width: 100%;
 background: url(https://dl.dropboxusercontent.com/u/64133716/Homepage/top-images/yes.jpg) no-repeat center center; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.once {
+width: 100%;
+background: url(https://dl.dropboxusercontent.com/u/64133716/Homepage/top-images/trees.jpg) no-repeat center center; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.monthly {
+width: 100%;
+background: url(https://dl.dropboxusercontent.com/u/64133716/Homepage/top-images/science-center-trees.jpg) no-repeat center center; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.yearly {
+width: 100%;
+background: url(https://dl.dropboxusercontent.com/u/64133716/Homepage/top-images/aerial.jpg) no-repeat center center; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
