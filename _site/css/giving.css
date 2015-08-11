@@ -44,6 +44,9 @@ background-color: rgba(255, 255, 255, 0.8);
 margin-top: 5px;
 }
 
-.formstack {
-
+.giving-back {
+position: absolute;
+top: 85px;
+left: 20px;
+background-color: rgba(0,56,168,0.9);
 }
