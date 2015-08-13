@@ -2,9 +2,8 @@
 categories: box
 layout: post
 published: true
-title: "Blue Devil athletes cited by US Track & Field and Cross Country Coaches Association"
-imageUrl: "http://www.fredoniabluedevils.com/images/2015/7/22/rp_primary_mulcahy_morrison_hess.jpg"
-link: "http://www.fredoniabluedevils.com/news/2015/7/22/GEN_0722154511.aspx"
+title: "Devils target ovarian & prostate cancer"
+imageUrl: "https://dl.dropboxusercontent.com/u/64133716/Homepage/Boxes/rp_primary_soc_cancer_awareness_graphic.jpg"
+link: "http://fredoniabluedevils.com/news/2015/8/12/GEN_0812152328.aspx?elinkdata=56797"
 ---
-
 
