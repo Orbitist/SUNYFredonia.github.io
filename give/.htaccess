@@ -1,4 +1,4 @@
-AuthUserFile .htpasswd
+AuthUserFile /give/.htpasswd
 AuthName "Please Log In"
 AuthType Basic
 Require valid-user
