@@ -6,4 +6,3 @@ link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mi
 title: "Activities Night set for Wednesday, Sept. 2"
 ---
 
-
