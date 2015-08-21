@@ -162,3 +162,25 @@ prose:
               value: "warning"
             - name: "Danger"
               value: "danger"
+    _posts/notice:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "notice"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published?"
+          value: "true"
+      - name: "link"
+        field:
+          element: "text"
+          label: "Enter a link for this notice"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Slide title"
