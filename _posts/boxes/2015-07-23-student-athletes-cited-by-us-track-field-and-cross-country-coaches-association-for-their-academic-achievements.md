@@ -2,8 +2,8 @@
 categories: box
 layout: post
 published: true
-title: "Devils target ovarian & prostate cancer"
-imageUrl: "https://dl.dropboxusercontent.com/u/64133716/Homepage/Boxes/rp_primary_soc_cancer_awareness_graphic.jpg"
-link: "http://fredoniabluedevils.com/news/2015/8/12/GEN_0812152328.aspx?elinkdata=56797"
+title: "Blue Devils 2015-16 schedules released"
+imageUrl: "http://www.fredoniabluedevils.com/images/2015/1/14%5C/rp_primary_bluedevil_SUNY_2014.2401.jpg"
+link: "http://www.fredoniabluedevils.com/news/2015/8/5/GEN_0805154310.aspx"
 ---
 
