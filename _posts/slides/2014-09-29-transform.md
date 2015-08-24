@@ -1,7 +1,7 @@
 ---
 categories: slide
 layout: post
-published: true
+published: false
 title: "Enroll Today !"
 caption: false
 imageUrl: "https://dl.dropboxusercontent.com/u/64133716/Homepage/Slides/transform_1500.jpg"
