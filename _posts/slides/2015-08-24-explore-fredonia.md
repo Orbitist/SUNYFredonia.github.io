@@ -1,9 +1,0 @@
----
-categories: slide
-published: true
-caption: false
-imageUrl: "http://www.fredonia.edu/_homepage_slides_2015/MARCOM_Webslides_2015-1.jpg"
-link: "http://www.fredonia.edu/admissions/"
-title: Explore Fredonia
----
-
