@@ -1,7 +1,7 @@
 ---
 categories: bigbox
 published: true
-imageUrl: "http://www.fredonia.edu/music/news/images/specialevents_fall2015_1.jpg"
+imageUrl: "https://www.dropbox.com/sh/5gaxvos9lc9fgmt/AADnebqORAnrn5RM9AqpUaJRa?preview=IMG_9988.tif"
 link: "http://www.fredonia.edu/music/"
 title: Shanghai Quartet to perform Oct. 3
 ---
