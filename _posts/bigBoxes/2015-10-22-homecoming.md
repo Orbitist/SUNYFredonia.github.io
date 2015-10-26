@@ -1,6 +1,6 @@
 ---
 categories: bigbox
-published: true
+published: false
 imageUrl: "http://www.fredonia.edu/_homepage_images/2015_homecoming-events_v3.jpg"
 link: "http://alumni.fredonia.edu/Events/Homecoming.aspx"
 title: "Homecoming Weekend Events on October 23-25"
