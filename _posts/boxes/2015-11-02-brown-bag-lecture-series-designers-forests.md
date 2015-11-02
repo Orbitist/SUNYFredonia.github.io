@@ -5,4 +5,4 @@ link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mi
 title: "Brown Bag Lecture Series: 'Designers & Forests' Wed, Nov 4 at noon"
 ---
 
-Brown Bag Lecture: "Designers & Forests: Community Engagement through Design"
+Nov. 4 Brown Bag Lecture: "Designers & Forests: Community Engagement through Design"
