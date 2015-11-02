@@ -6,5 +6,4 @@ link: "http://www.fredonia.edu/news/ArchivesSearch/tabid/1101/ctl/ArticleView/mi
 title: "Brown Bag Lecture Series: 'Designers & Forests'"
 ---
 
-
 Brown Bag Lecture Series: 'Designers & Forests' Wed, Nov 4 at noon.
